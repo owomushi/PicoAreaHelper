@@ -1,4 +1,4 @@
-# PicoAreaHelper
+# PicoAreaHelper <Archived Project from November 2022>
 Pico4换区小助手
 
 ![image](https://user-images.githubusercontent.com/51113234/196170641-0d1565ca-74a8-48dc-a85b-be3d7374cd15.png)
@@ -52,3 +52,4 @@ Pico4换区小助手
 - 修复编码格式导致乱码的问题
 ### V0.1 2022-10-15
 - 首次发布
+
